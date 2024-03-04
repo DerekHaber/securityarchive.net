@@ -1,6 +1,5 @@
 # The Security Archive Project
 
-https://securityarchive.net
 Security Archive is a project started by Derek Haber to not only make secure setups easier to achieve for those who don't understand it, but also to continue improving his security practices. To learn more about this project, continue reading.
 
 # About
