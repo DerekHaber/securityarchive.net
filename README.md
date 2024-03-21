@@ -12,13 +12,27 @@ As mentioned above, Security Archive is an ongoing project, dedicated to the con
 
 Our current practices include keeping all secret information hashed using a trusted algorithm, filtering all input and output of information, and having it all ran through a dedicated server, configured specifically for Security Archive and their clients.
 
+# Updates
+
+The first web app penetration test has been completed, and any vulnerabilities found have been patched.
+
+Real-time threat monitoring and filters.
+
+A stronger password policy has been implemented.
+
+Network firewall has been configured in a more secure way.
+
+A Web Application Firewall has been set up, and configured for further safety.
+
+Server backups initiated.
+
+Account lockout after 3 failed attempts has been implemented. Logging in successfully before getting locked out will reset failed attempts to zero. If your account gets locked, please contact support@securityarchive.net using the email address connected to the account.
+
 # Next Steps
 
 Security Archive is adamant in providing the best, and most secure platform for our clients, and so it is only right to keep them up to date on our plans to improve.
 
 Our next step is performing web app security tests to examine the project for any issues we may have overlooked. We perform this regularly to not only keep our own project secure, but to improve our insight of what level of security we can supply to our clients.
-
-In the near future, we plan to implement a secure, and reliable backup system to ensure there is never any data loss for us, or our clients.
 
 Finally, we plan to improve the design of our website. While we want to attract the attention of those visiting Security Archive, our first goal is keeping everything secure. For this reason, our design is lower on our list of priorities, and will be worked on small bits at a time.
 
